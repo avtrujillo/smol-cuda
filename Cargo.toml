@@ -1,6 +1,10 @@
 [package]
 name = "smol-cuda"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
+description = "Rust async cuda using the smol runtime"
+repository = "https://github.com/avtrujillo/smol-cuda"
+rust-version = "1.85"
+license = "MIT"
 
 [dependencies]
